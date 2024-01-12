@@ -28,3 +28,5 @@ I'm Rushikesh Badadale, a software engineer based in Maharashtra, India. I'm pas
 ## Contact
 
 You can reach me at badadalerushikesh@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/rushikesh-badadale-158188275/.
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
