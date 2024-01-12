@@ -2,7 +2,7 @@
 
 I'm Rushikesh Badadale, a software engineer based in Maharashtra, India. I'm passionate about building software that makes a difference in people's lives.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rushi02&layout=compact)
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=vue,react,py,php,postman,nextjs,mysql,docker,ai,js,html,css,git,aws,vscode)](https://skillicons.dev)
