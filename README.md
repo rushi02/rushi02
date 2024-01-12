@@ -3,12 +3,7 @@
 I'm Rushikesh Badadale, a software engineer based in Maharashtra, India. I'm passionate about building software that makes a difference in people's lives.
 
 ## Skills
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=vue,react,py,PHP,postman,nextjs,mysql,ai,js,html,css,git,aws,vscode)](https://skillicons.dev)
 
 - React.js
 - Node.js
