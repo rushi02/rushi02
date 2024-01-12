@@ -23,4 +23,4 @@ I'm Rushikesh Badadale, a software engineer based in Maharashtra, India. I'm pas
 
 ## Contact
 
-You can reach me at rushikesh.badadale@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/rushikesh-badadale-158188275/.
+You can reach me at badadalerushikesh@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/rushikesh-badadale-158188275/.
